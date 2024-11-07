@@ -1,16 +1,16 @@
-
 # Cash Denomination App
 
 A web application that calculates the number of each cash denomination (bills and coins) required to make up a specified amount. This app is useful for cashiers, bank tellers, or anyone needing quick calculations for cash breakdowns. Built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
-- [Features](#Features)
-- [Demo]()
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Technologies Used](#TechnologiesUsed)
-- [Contributing](#Contributing)
+- [Features](#features)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+
 
 
 ## Features
