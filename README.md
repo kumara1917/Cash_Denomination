@@ -9,7 +9,7 @@ A web application that calculates the number of each cash denomination (bills an
 - [Demo]()
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Technologies Used](#Technologies Used)
+- [Technologies Used](#TechnologiesUsed)
 - [Contributing](#Contributing)
 
 
