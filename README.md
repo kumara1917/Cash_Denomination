@@ -5,12 +5,12 @@ A web application that calculates the number of each cash denomination (bills an
 
 ## Table of Contents
 
-- [Features]()
+- [Features](#Features)
 - [Demo]()
-- [Installation]()
-- [Usage]()
-- [Technologies Used]()
-- [Contributing]()
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Technologies Used](#Technologies Used)
+- [Contributing](#Contributing)
 
 
 ## Features
